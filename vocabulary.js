@@ -1,5 +1,4 @@
-
-export const vocabData = {
+{
     HSK1: [
       { 
         unit: 1, 
